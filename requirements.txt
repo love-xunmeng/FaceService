@@ -1,0 +1,6 @@
+python3
+Flask
+requests
+dlib
+face_recognition
+redis
